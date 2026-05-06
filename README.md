@@ -1,1 +1,1 @@
-# grik-digital-library-2
+# grik-digital-library
